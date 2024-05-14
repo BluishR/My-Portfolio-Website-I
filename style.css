@@ -1,0 +1,136 @@
+:root {
+  --color-base: #ffffff; 
+  --color-body: #333333; 
+  --color-heading: #444444;  
+  --color-brand: #6c5ce7;  
+  --color-brand2: #92d2f2;  
+  --color-brand3: #ffb74d;
+}
+
+body {
+  background-color: var(--color-base);
+  color: var(--color-body);
+  font-family: var(--font-base), sans-serif;
+  font-size: 12px; /* Added font size */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-heading);
+  font-weight: 100;
+  font-size: inherit; /* Inherit font size */
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-body);
+  transition: all 0.4s ease;
+}
+
+a:hover {
+  color: var(--color-brand);
+}
+
+img {
+  width: 100%;
+}
+
+.full-height {
+  min-height: 100vh;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  padding-left: 0px;
+  border-bottom: rgba(255, 255, 255, 0.1);
+}
+
+.full-height1 {
+  min-height: 100vh;
+  height: 100%;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  border-bottom: rgba(255, 255, 255, 0.1);
+}
+
+.text-brand {
+  color: var(--color-brand3);
+}
+
+.navbar {
+  background-color: var(--color-base);
+}
+
+.navbar .nav-link {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.navbar .nav-link:hover {
+  color: var(--color-brand);
+}
+
+@media (min-width: 992px) {
+  .navbar {
+      min-height: 100vh;
+      width: var(--sidebar-width);
+      background: linear-gradient(#92d2f29b, #0a043e83), url(../images/cover-image.jpg);
+      background-size: cover;
+      background-image: center;
+  }
+
+  .navbar .rounded-circle {
+      border: 8px solid var(--color-brand);
+      background-color: rgb(172, 199, 255);
+  }
+}
+
+.progress {
+  background-color: #c558ff;
+  border: 1px solid black; 
+}
+
+.progress-bar {
+  color: antiquewhite;
+  background-color: antiquewhite;
+}
+
+.btn{
+  padding: 12px 28px;
+  font-weight: 700;
+}
+
+.btn-brand{
+  background-color: var(--color-brand);
+  border-color:var(--color-brand);
+  color: var(--color-base);
+}
+
+.btn-brand:hover,
+.btn-brand:focus{
+  background-color: var(--color-brand3);
+  color: var(--color-base);
+  border-color: var(--color-brand3);
+}
+
+.link-custom{
+  font-weight: 700;
+  position: relative;
+}
+
+.link-custom::after{
+  content: "";
+  width: 0%;
+  height: 2px;
+  background-color: var(--color-brand);
+  position: absolute;
+  left: 0;
+  top: 110%;
+}

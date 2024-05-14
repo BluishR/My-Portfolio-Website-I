@@ -1,0 +1,17 @@
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab_04___Saenz.Form1.resources
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab_04___Saenz.Properties.Resources.resources
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.csproj.GenerateResource.Cache
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\bin\Debug\Lab 04 - Saenz.exe
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\bin\Debug\Lab 04 - Saenz.pdb
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.exe
+C:\Users\Personal\Documents\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.pdb
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\bin\Debug\Lab 04 - Saenz.exe
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\bin\Debug\Lab 04 - Saenz.pdb
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.csproj.AssemblyReference.cache
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab_04___Saenz.Form1.resources
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab_04___Saenz.Properties.Resources.resources
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.csproj.GenerateResource.cache
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.exe
+C:\Users\Personal\Documents\All about School\School Files\Application Development\Lab 04 - Saenz\Lab 04 - Saenz\obj\x86\Debug\Lab 04 - Saenz.pdb

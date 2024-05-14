@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+
+h3 .float-md-start mb-0{
+    font-style: italic; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-link{
+    color-scheme: #000;;
+}
