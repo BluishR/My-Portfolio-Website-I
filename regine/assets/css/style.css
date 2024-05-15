@@ -5,7 +5,7 @@
     --color-heading: #172671;
     --color-base: #1b1e61;
     --color-base2: rgb(234, 248, 255);
-    --color-brand: #3c8aff;
+    --color-brand: #c558ff;
     --color-brand2: #46BEA3;
     --color-brand3: #c558ff;
     --sidebar-width: 240px;
@@ -90,14 +90,14 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidebar-width);
-        background: linear-gradient(#92d2f29b, #0a043e83), url(../images/cover-image.jpg);
+        background: linear-gradient(#cc92f29b, #6c067a83), url(../images/cover-image.jpg);
         background-size: cover;
         background-image: center;
     }
 
     .navbar .rounded-circle {
         border: 8px solid var(--color-brand);
-        background-color: rgb(172, 199, 255);
+        background-color: rgb(219, 194, 253);
     }
 }
 
